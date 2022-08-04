@@ -1,0 +1,2 @@
+# astromatch-carol
+O Astromatch é uma aplicação baseada no Tinder, ao acessá-la podemos ver um perfil e escolher clicar no botão de like ou dislike. A API sorteia os perfis que foram curtidos e decide se irão dar match ou não. O usuário pode acessar a lista de matches, clicando no ícone superior direito.  Caso os perfis fornecidos pela API acabem, o usuário recebe um alerta onde ele pode deletar os matches e começar de novo. 
